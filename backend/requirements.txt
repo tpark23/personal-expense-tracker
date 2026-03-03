@@ -1,0 +1,9 @@
+# FastAPI
+fastapi[standard]
+uvicorn
+
+# Data
+pdfplumber
+pandas
+
+httptools
