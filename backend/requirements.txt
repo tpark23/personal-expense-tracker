@@ -1,0 +1,10 @@
+# FastAPI
+fastapi[standard]
+uvicorn
+
+# Data
+pdfplumber
+pandas
+pydantic_settings
+
+httptools

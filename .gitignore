@@ -1,0 +1,13 @@
+# Virtual Environment
+.venv/
+
+# Python
+__pycache__/
+
+# Testing
+bank-statements/
+uploaded_statements/
+notes/
+
+# Config
+.env
